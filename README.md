@@ -1,4 +1,4 @@
-# Data-science-projects
+# Data-science
 Please find attached my assignments and capstone projects, completed as part of my learning journey. These projects cover the following specializations:
 
 Python,
